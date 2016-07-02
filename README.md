@@ -1,0 +1,2 @@
+# libopenshot
+openshot video editor
